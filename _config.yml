@@ -21,9 +21,9 @@
 title: FinHawk Blog
 description: Analysis of latest happenings on stock market by FinHawk team.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://finhawk-app.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: finhawk_app
-telegram: finhawk_bot  
+telegram: finhawk_bot
 incremental: true
 gem: jekyll
 
