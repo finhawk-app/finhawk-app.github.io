@@ -1,4 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-28T12:18:54+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">FinHawk Blog</title><subtitle>Analysis of latest happenings on stock market by FinHawk team.</subtitle><entry><title type="html">Trade Analysis: Intraday trade with StochRSI and Bollinger Band</title><link href="http://localhost:4000/blogs/2020/05/27/trade-analysis-with-stochrsi-and-bb.html" rel="alternate" type="text/html" title="Trade Analysis: Intraday trade with StochRSI and Bollinger Band" /><published>2020-05-27T16:12:22+05:30</published><updated>2020-05-27T16:12:22+05:30</updated><id>http://localhost:4000/blogs/2020/05/27/trade-analysis-with-stochrsi-and-bb</id><content type="html" xml:base="http://localhost:4000/blogs/2020/05/27/trade-analysis-with-stochrsi-and-bb.html">&lt;p&gt;A detailed analysis of an intra-day trade on Bajaj Finance Ltd. using Stochastic RSI, Bollinger Bands and ATR.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-03T18:56:28+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blogtesting</title><subtitle>Analysis of latest happenings on stock market.</subtitle><entry><title type="html">Analysis: Swing trade in a range using support &amp;amp; resistance line</title><link href="http://localhost:4000/blogs/2020/06/03/swing-trade-using-support-and-resistance.html" rel="alternate" type="text/html" title="Analysis: Swing trade in a range using support &amp; resistance line" /><published>2020-06-03T17:15:22+05:30</published><updated>2020-06-03T17:15:22+05:30</updated><id>http://localhost:4000/blogs/2020/06/03/swing-trade-using-support-and-resistance</id><content type="html" xml:base="http://localhost:4000/blogs/2020/06/03/swing-trade-using-support-and-resistance.html">&lt;p&gt;A detailed analysis of a swing trade on Tech Mahindra using support and resistance line.&lt;/p&gt;
+
+&lt;p&gt;In the current volatile market, a trading setup needed to be identified which was predictable in nature. Observing the market trend, various sector index trends and stocks in the watchlist, Tech Mahindra was selected as it was trading in a range. The strategy was not to lookout for a breakout but to trade on the highs and lows of the trading range. For this, a daily chart of Tech Mahindra is plotted alongside volume&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and ATR&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;drawing-support--resistance-lines&quot;&gt;Drawing Support &amp;amp; Resistance Lines&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/finhawk_static/Blog/Techmahindra_support_resistance.png&quot; alt=&quot;Tech Mahindra - Support &amp;amp; Resistance Line&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The strategy for trading in a range is to buy at the low of the trading range and then sell at the high. First thing was to identify the support and resistance line:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;A resistance line was established at 500 by joining the lows on reactions on 24th April and 5th May. This would help in identifying the buying region&lt;/li&gt;
+  &lt;li&gt;A support line was established at 548 by joining the highs on rallies on 30th April and 13th May. This would help in identifying the selling region&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;confirming-the-rally&quot;&gt;Confirming the rally&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/finhawk_static/Blog/Techmahindra_analysis.png&quot; alt=&quot;Tech Mahindra - Analysis&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On 18th May, when the reaction was about to hit the resistance line, the following analysis was done:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Filter out the possibility of a breakout - Despite the high volumes on the last rally on 4th May, the volumes on 18th May (and before that) are less therefore indicating that the probability of a breakout is less&lt;/li&gt;
+  &lt;li&gt;Confirming the start of the rally - On the next day, a green candle with the price ending on 514 confirms that the rally has started. So the trade can be entered on 20th May morning at a price around 514.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;profit-stop-loss-and-position-size-for-the-trade&quot;&gt;Profit, Stop Loss and Position Size for the Trade&lt;/h1&gt;
+
+&lt;p&gt;After confirming that the rally has started, estimated risk reward ratio of trade was calculated, before committing to the trade:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Profit scenario: The profitable exit point for such a trade can be placed  at the support line at 548. So possible profit was 34 (548-514)&lt;/li&gt;
+  &lt;li&gt;Stop Loss: ATR at the time of entry is 24. Stop loss can be placed at 1 ATR away from the entry condition i.e 490 (514-24)&lt;/li&gt;
+  &lt;li&gt;Risk Reward Ratio for the trade was 0.70 (24/34). Most traders use a risk-reward ratio between 0.25 and 1. So the risk reward ratio of 0.70 fits the criteria.&lt;/li&gt;
+  &lt;li&gt;Position Size for the trade: To calculate the size for the trade, the following method was used:
+    &lt;ul&gt;
+      &lt;li&gt;Position Sizing = 1%xTotal Capital/Risk where 1% denotes the risk appetite of the trader&lt;/li&gt;
+      &lt;li&gt;Assuming total trading capital is of Rs. 5 lakhs so the position size for the trade would be 208 shares (1%x5 lakhs/24)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;profit--loss&quot;&gt;Profit &amp;amp; Loss&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Entry point: 514 (After confirming the rally via green candle on day next to 18th May when support line was touched)&lt;/li&gt;
+  &lt;li&gt;Exit point: 548 (on 1st June when price hits the line of resistance)&lt;/li&gt;
+  &lt;li&gt;Profit per share: 34&lt;/li&gt;
+  &lt;li&gt;P&amp;amp;L (assuming 208 shares) = 208*35 = Rs. 7,072&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h1&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Volume or any other volume indicators like Accumulation distribution line, OBV, CMF can be used to gauge increasing buying or selling pressure. This can also be used to predict an upcoming breakout &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Breakouts are supported by a multi-year low ATR. ATR can be additionally used for putting the stop loss &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">A detailed analysis of a swing trade on Tech Mahindra using support and resistance line.</summary></entry><entry><title type="html">Analysis: Intraday trade with StochRSI and Bollinger Band</title><link href="http://localhost:4000/blogs/2020/05/27/trade-analysis-with-stochrsi-and-bb.html" rel="alternate" type="text/html" title="Analysis: Intraday trade with StochRSI and Bollinger Band" /><published>2020-05-27T16:12:22+05:30</published><updated>2020-05-27T16:12:22+05:30</updated><id>http://localhost:4000/blogs/2020/05/27/trade-analysis-with-stochrsi-and-bb</id><content type="html" xml:base="http://localhost:4000/blogs/2020/05/27/trade-analysis-with-stochrsi-and-bb.html">&lt;p&gt;A detailed analysis of an intra-day trade on Bajaj Finance Ltd. using Stochastic RSI, Bollinger Bands and ATR.&lt;/p&gt;
 
 &lt;p&gt;First step while deciding to trade is to ensure that the direction of trade (going long or short) is in the direction of the market. To establish the direction of the market, the NIFTY daily chart was looked at. It was observed that Nifty high had dropped from 9900 (30th April) to 9600 (13th May) thereby signifying downtrend in the market.&lt;/p&gt;
 
@@ -15,7 +74,6 @@
   &lt;li&gt;Time frame for charts: 15 mins&lt;/li&gt;
   &lt;li&gt;Identify entry condition for shorting - For shorting, price would need to be identified in overbought conditions&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Stochastic RSI&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, a momentum indicator, was selected to identify overbought conditions of the stock.&lt;/li&gt;
   &lt;li&gt;Signal confirmation via another indicator - As a good trading practice, any signal that is identified using one type of indicator needs to be confirmed by using another type of indicator. Bollinger Band&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;,a price band based on volatility, was selected as the second indicator to confirm the overbought signal generated by a momentum indicator, Stochastic RSI.&lt;/li&gt;
-  &lt;li&gt;Preferable time to enter the trade - For an intraday trade, ideally the entry point should be before 11 am so that there is enough time for the stock to move during the day and enable the trader to make substantial profit.&lt;/li&gt;
   &lt;li&gt;Preferable time to enter the trade - For an intraday trade, ideally the entry point should be before 11 am so that there is enough time for the stock to move during the day and enable the trader to make substantial profit.&lt;/li&gt;
   &lt;li&gt;Risk Reward Ratio: For most day traders, risk/reward ratios typically fall between 1.0 and 0.25. Based on this, trades with risk/reward ratio greater than 1 would be avoided.&lt;/li&gt;
   &lt;li&gt;Exit condition for making profit: Since StochRSI&amp;gt;80 was being used to enter the trade so StochRSI &amp;lt;20 would be used as an exit condition for the trade. Alternatively, StochRSI crossing above 20 could also be used as an exit condition. The indicative profit in such a scenario can be estimated by calculating the bollinger bandwidth at the time of the entry however the profit could be more if the band was to expand during the price movement.&lt;/li&gt;
