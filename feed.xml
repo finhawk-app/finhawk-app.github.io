@@ -1,291 +1,168 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-03T19:50:14+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">FinHawk Blog</title><subtitle>Analysis of latest happenings on stock market by FinHawk team.</subtitle><entry><title type="html">Analysis: Swing trade in a range using support &amp;amp; resistance line</title><link href="http://localhost:4000/blogs/2020/06/03/swing-trade-using-support-and-resistance.html" rel="alternate" type="text/html" title="Analysis: Swing trade in a range using support &amp; resistance line" /><published>2020-06-03T17:15:22+05:30</published><updated>2020-06-03T17:15:22+05:30</updated><id>http://localhost:4000/blogs/2020/06/03/swing-trade-using-support-and-resistance</id><content type="html" xml:base="http://localhost:4000/blogs/2020/06/03/swing-trade-using-support-and-resistance.html">&lt;p&gt;A detailed analysis of a swing trade on Tech Mahindra using support and resistance line.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://blog.finhawk.co.in/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.finhawk.co.in/" rel="alternate" type="text/html" /><updated>2020-06-04T07:13:24+05:30</updated><id>https://blog.finhawk.co.in/feed.xml</id><title type="html">FinHawk Blog</title><subtitle>Industry and stock market analysis by the FinHawk team.</subtitle><entry><title type="html">Analysis: Swing trade in a range using support &amp;amp; resistance line</title><link href="https://blog.finhawk.co.in/blogs/2020/06/03/swing-trade-using-support-and-resistance.html" rel="alternate" type="text/html" title="Analysis: Swing trade in a range using support &amp; resistance line" /><published>2020-06-03T17:15:22+05:30</published><updated>2020-06-03T17:15:22+05:30</updated><id>https://blog.finhawk.co.in/blogs/2020/06/03/swing-trade-using-support-and-resistance</id><content type="html" xml:base="https://blog.finhawk.co.in/blogs/2020/06/03/swing-trade-using-support-and-resistance.html">A detailed analysis of a swing trade on Tech Mahindra using support and resistance line.
 
-&lt;p&gt;In the current volatile market, a trading setup needed to be identified which was predictable in nature. Observing the market trend, various sector index trends and stocks in the watchlist, Tech Mahindra was selected as it was trading in a range. The strategy was not to lookout for a breakout but to trade on the highs and lows of the trading range. For this, a daily chart of Tech Mahindra is plotted alongside volume&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and ATR&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+In the current volatile market, a trading setup needed to be identified which was predictable in nature. Observing the market trend, various sector index trends and stocks in the watchlist, Tech Mahindra was selected as it was trading in a range. The strategy was not to lookout for a breakout but to trade on the highs and lows of the trading range. For this, a daily chart of Tech Mahindra is plotted alongside volume[^1] and ATR[^2].
 
-&lt;h1 id=&quot;drawing-support--resistance-lines&quot;&gt;Drawing Support &amp;amp; Resistance Lines&lt;/h1&gt;
+# Drawing Support &amp; Resistance Lines
 
-&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/finhawk_static/Blog/Techmahindra_support_resistance.png&quot; alt=&quot;Tech Mahindra - Support &amp;amp; Resistance Line&quot; /&gt;&lt;/p&gt;
+![Tech Mahindra - Support &amp; Resistance Line](https://storage.googleapis.com/finhawk_static/Blog/Techmahindra_support_resistance.png)
 
-&lt;p&gt;The strategy for trading in a range is to buy at the low of the trading range and then sell at the high. First thing was to identify the support and resistance line:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;A resistance line was established at 500 by joining the lows on reactions on 24th April and 5th May. This would help in identifying the buying region&lt;/li&gt;
-  &lt;li&gt;A support line was established at 548 by joining the highs on rallies on 30th April and 13th May. This would help in identifying the selling region&lt;/li&gt;
-&lt;/ol&gt;
+The strategy for trading in a range is to buy at the low of the trading range and then sell at the high. First thing was to identify the support and resistance line:
+1. A resistance line was established at 500 by joining the lows on reactions on 24th April and 5th May. This would help in identifying the buying region
+2. A support line was established at 548 by joining the highs on rallies on 30th April and 13th May. This would help in identifying the selling region
 
-&lt;h1 id=&quot;confirming-the-rally&quot;&gt;Confirming the rally&lt;/h1&gt;
+# Confirming the rally
 
-&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/finhawk_static/Blog/Techmahindra_analysis.png&quot; alt=&quot;Tech Mahindra - Analysis&quot; /&gt;&lt;/p&gt;
+![Tech Mahindra - Analysis](https://storage.googleapis.com/finhawk_static/Blog/Techmahindra_analysis.png)
 
-&lt;p&gt;On 18th May, when the reaction was about to hit the resistance line, the following analysis was done:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Filter out the possibility of a breakout - Despite the high volumes on the last rally on 4th May, the volumes on 18th May (and before that) are less therefore indicating that the probability of a breakout is less&lt;/li&gt;
-  &lt;li&gt;Confirming the start of the rally - On the next day, a green candle with the price ending on 514 confirms that the rally has started. So the trade can be entered on 20th May morning at a price around 514.&lt;/li&gt;
-&lt;/ol&gt;
+On 18th May, when the reaction was about to hit the resistance line, the following analysis was done:
+1. Filter out the possibility of a breakout - Despite the high volumes on the last rally on 4th May, the volumes on 18th May (and before that) are less therefore indicating that the probability of a breakout is less
+2. Confirming the start of the rally - On the next day, a green candle with the price ending on 514 confirms that the rally has started. So the trade can be entered on 20th May morning at a price around 514.
 
-&lt;h1 id=&quot;profit-stop-loss-and-position-size-for-the-trade&quot;&gt;Profit, Stop Loss and Position Size for the Trade&lt;/h1&gt;
+# Profit, Stop Loss and Position Size for the Trade
 
-&lt;p&gt;After confirming that the rally has started, estimated risk reward ratio of trade was calculated, before committing to the trade:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Profit scenario: The profitable exit point for such a trade can be placed  at the support line at 548. So possible profit was 34 (548-514)&lt;/li&gt;
-  &lt;li&gt;Stop Loss: ATR at the time of entry is 24. Stop loss can be placed at 1 ATR away from the entry condition i.e 490 (514-24)&lt;/li&gt;
-  &lt;li&gt;Risk Reward Ratio for the trade was 0.70 (24/34). Most traders use a risk-reward ratio between 0.25 and 1. So the risk reward ratio of 0.70 fits the criteria.&lt;/li&gt;
-  &lt;li&gt;Position Size for the trade: To calculate the size for the trade, the following method was used:
-    &lt;ul&gt;
-      &lt;li&gt;Position Sizing = 1%xTotal Capital/Risk where 1% denotes the risk appetite of the trader&lt;/li&gt;
-      &lt;li&gt;Assuming total trading capital is of Rs. 5 lakhs so the position size for the trade would be 208 shares (1%x5 lakhs/24)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+After confirming that the rally has started, estimated risk reward ratio of trade was calculated, before committing to the trade:
+1. Profit scenario: The profitable exit point for such a trade can be placed  at the support line at 548. So possible profit was 34 (548-514)
+2. Stop Loss: ATR at the time of entry is 24. Stop loss can be placed at 1 ATR away from the entry condition i.e 490 (514-24)
+3. Risk Reward Ratio for the trade was 0.70 (24/34). Most traders use a risk-reward ratio between 0.25 and 1. So the risk reward ratio of 0.70 fits the criteria.
+4. Position Size for the trade: To calculate the size for the trade, the following method was used:
+* Position Sizing = 1%xTotal Capital/Risk where 1% denotes the risk appetite of the trader
+* Assuming total trading capital is of Rs. 5 lakhs so the position size for the trade would be 208 shares (1%x5 lakhs/24)
 
-&lt;h1 id=&quot;profit--loss&quot;&gt;Profit &amp;amp; Loss&lt;/h1&gt;
+# Profit &amp; Loss
 
-&lt;ol&gt;
-  &lt;li&gt;Entry point: 514 (After confirming the rally via green candle on day next to 18th May when support line was touched)&lt;/li&gt;
-  &lt;li&gt;Exit point: 548 (on 1st June when price hits the line of resistance)&lt;/li&gt;
-  &lt;li&gt;Profit per share: 34&lt;/li&gt;
-  &lt;li&gt;P&amp;amp;L (assuming 208 shares) = 208*35 = Rs. 7,072&lt;/li&gt;
-&lt;/ol&gt;
+1. Entry point: 514 (After confirming the rally via green candle on day next to 18th May when support line was touched)
+2. Exit point: 548 (on 1st June when price hits the line of resistance)
+3. Profit per share: 34
+4. P&amp;L (assuming 208 shares) = 208*35 = Rs. 7,072
 
-&lt;h1 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h1&gt;
+# Footnotes
 
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Volume or any other volume indicators like Accumulation distribution line, OBV, CMF can be used to gauge increasing buying or selling pressure. This can also be used to predict an upcoming breakout &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Breakouts are supported by a multi-year low ATR. ATR can be additionally used for putting the stop loss &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">A detailed analysis of a swing trade on Tech Mahindra using support and resistance line.</summary></entry><entry><title type="html">Analysis: Intraday trade with StochRSI and Bollinger Band</title><link href="http://localhost:4000/blogs/2020/05/27/trade-analysis-with-stochrsi-and-bb.html" rel="alternate" type="text/html" title="Analysis: Intraday trade with StochRSI and Bollinger Band" /><published>2020-05-27T16:12:22+05:30</published><updated>2020-05-27T16:12:22+05:30</updated><id>http://localhost:4000/blogs/2020/05/27/trade-analysis-with-stochrsi-and-bb</id><content type="html" xml:base="http://localhost:4000/blogs/2020/05/27/trade-analysis-with-stochrsi-and-bb.html">&lt;p&gt;A detailed analysis of an intra-day trade on Bajaj Finance Ltd. using Stochastic RSI, Bollinger Bands and ATR.&lt;/p&gt;
+[^1]:Volume or any other volume indicators like Accumulation distribution line, OBV, CMF can be used to gauge increasing buying or selling pressure. This can also be used to predict an upcoming breakout
+[^2]: Breakouts are supported by a multi-year low ATR. ATR can be additionally used for putting the stop loss</content><author><name></name></author><summary type="html">A detailed analysis of a swing trade on Tech Mahindra using support and resistance line.</summary></entry><entry><title type="html">Analysis: Intraday trade with StochRSI and Bollinger Band</title><link href="https://blog.finhawk.co.in/blogs/2020/05/27/trade-analysis-with-stochrsi-and-bb.html" rel="alternate" type="text/html" title="Analysis: Intraday trade with StochRSI and Bollinger Band" /><published>2020-05-27T16:12:22+05:30</published><updated>2020-05-27T16:12:22+05:30</updated><id>https://blog.finhawk.co.in/blogs/2020/05/27/trade-analysis-with-stochrsi-and-bb</id><content type="html" xml:base="https://blog.finhawk.co.in/blogs/2020/05/27/trade-analysis-with-stochrsi-and-bb.html">A detailed analysis of an intra-day trade on Bajaj Finance Ltd. using Stochastic RSI, Bollinger Bands and ATR.
 
-&lt;p&gt;First step while deciding to trade is to ensure that the direction of trade (going long or short) is in the direction of the market. To establish the direction of the market, the NIFTY daily chart was looked at. It was observed that Nifty high had dropped from 9900 (30th April) to 9600 (13th May) thereby signifying downtrend in the market.&lt;/p&gt;
+First step while deciding to trade is to ensure that the direction of trade (going long or short) is in the direction of the market. To establish the direction of the market, the NIFTY daily chart was looked at. It was observed that Nifty high had dropped from 9900 (30th April) to 9600 (13th May) thereby signifying downtrend in the market.
 
-&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/finhawk_static/Blog/nifty.png&quot; alt=&quot;Nifty Chart&quot; /&gt;&lt;/p&gt;
+![Nifty Chart](https://storage.googleapis.com/finhawk_static/Blog/nifty.png)
 
-&lt;p&gt;From a watchlist, Bajaj Finance Ltd. was observed to be in a clear downtrend&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; (dropped from 2400 on 30th April to 2200 on 13th May) and was found to be most aligned with the market’s direction. Based on this, intraday shorting opportunities in Bajaj Finance Ltd. were scouted following 13th May.&lt;/p&gt;
+From a watchlist, Bajaj Finance Ltd. was observed to be in a clear downtrend[^1] (dropped from 2400 on 30th April to 2200 on 13th May) and was found to be most aligned with the market’s direction. Based on this, intraday shorting opportunities in Bajaj Finance Ltd. were scouted following 13th May.
 
-&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/finhawk_static/Blog/bajajfinance.png&quot; alt=&quot;Bajaj Finance Chart&quot; /&gt;&lt;/p&gt;
+![Bajaj Finance Chart](https://storage.googleapis.com/finhawk_static/Blog/bajajfinance.png)
 
-&lt;h1 id=&quot;strategy-formation&quot;&gt;Strategy formation&lt;/h1&gt;
+# Strategy formation
 
-&lt;p&gt;Before going into the execution of trade, a strategy needs to be built incorporating all aspects of a trade:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Time frame for charts: 15 mins&lt;/li&gt;
-  &lt;li&gt;Identify entry condition for shorting - For shorting, price would need to be identified in overbought conditions&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Stochastic RSI&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, a momentum indicator, was selected to identify overbought conditions of the stock.&lt;/li&gt;
-  &lt;li&gt;Signal confirmation via another indicator - As a good trading practice, any signal that is identified using one type of indicator needs to be confirmed by using another type of indicator. Bollinger Band&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;,a price band based on volatility, was selected as the second indicator to confirm the overbought signal generated by a momentum indicator, Stochastic RSI.&lt;/li&gt;
-  &lt;li&gt;Preferable time to enter the trade - For an intraday trade, ideally the entry point should be before 11 am so that there is enough time for the stock to move during the day and enable the trader to make substantial profit.&lt;/li&gt;
-  &lt;li&gt;Risk Reward Ratio: For most day traders, risk/reward ratios typically fall between 1.0 and 0.25. Based on this, trades with risk/reward ratio greater than 1 would be avoided.&lt;/li&gt;
-  &lt;li&gt;Exit condition for making profit: Since StochRSI&amp;gt;80 was being used to enter the trade so StochRSI &amp;lt;20 would be used as an exit condition for the trade. Alternatively, StochRSI crossing above 20 could also be used as an exit condition. The indicative profit in such a scenario can be estimated by calculating the bollinger bandwidth at the time of the entry however the profit could be more if the band was to expand during the price movement.&lt;/li&gt;
-  &lt;li&gt;Stop Loss: A multiple (1 or 2) of ATR (Average true range) above the entry point would be used as a stop loss for the trade&lt;/li&gt;
-&lt;/ol&gt;
+Before going into the execution of trade, a strategy needs to be built incorporating all aspects of a trade:
+1. Time frame for charts: 15 mins
+2. Identify entry condition for shorting - For shorting, price would need to be identified in overbought conditions[^2]. Stochastic RSI[^3], a momentum indicator, was selected to identify overbought conditions of the stock.
+3. Signal confirmation via another indicator - As a good trading practice, any signal that is identified using one type of indicator needs to be confirmed by using another type of indicator. Bollinger Band[^4],a price band based on volatility, was selected as the second indicator to confirm the overbought signal generated by a momentum indicator, Stochastic RSI.
+4. Preferable time to enter the trade - For an intraday trade, ideally the entry point should be before 11 am so that there is enough time for the stock to move during the day and enable the trader to make substantial profit.
+5. Risk Reward Ratio: For most day traders, risk/reward ratios typically fall between 1.0 and 0.25. Based on this, trades with risk/reward ratio greater than 1 would be avoided.
+6. Exit condition for making profit: Since StochRSI&gt;80 was being used to enter the trade so StochRSI &lt;20 would be used as an exit condition for the trade. Alternatively, StochRSI crossing above 20 could also be used as an exit condition. The indicative profit in such a scenario can be estimated by calculating the bollinger bandwidth at the time of the entry however the profit could be more if the band was to expand during the price movement.
+7. Stop Loss: A multiple (1 or 2) of ATR (Average true range) above the entry point would be used as a stop loss for the trade
 
-&lt;h1 id=&quot;implementation&quot;&gt;Implementation&lt;/h1&gt;
+# Implementation
 
-&lt;p&gt;&lt;img src=&quot;https://storage.googleapis.com/finhawk_static/Blog/bajs.png&quot; alt=&quot;Bajaj Finance Chart&quot; /&gt;&lt;/p&gt;
+![Bajaj Finance Chart](https://storage.googleapis.com/finhawk_static/Blog/bajs.png)
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Waiting for the right entry point&lt;/strong&gt; - After 13th May, Stochastic RSI crossed 80 four times in the following 4 sessions. The 4 signals were inspected:
-    &lt;ul&gt;
-      &lt;li&gt;14th May - Stoch RSI’s K line crossed 80 but its D line was not able to cross the 80 mark so no action was taken on this&lt;/li&gt;
-      &lt;li&gt;15th May - Stoch RSI crossed 80 after 12:30 pm so not enough time for price to move its course and make sufficient profits&lt;/li&gt;
-      &lt;li&gt;18th May - Stoch RSI crossed 80 after 2 pm so again not enough time for price to move its course and make sufficient profits&lt;/li&gt;
-      &lt;li&gt;19th May - Stoch RSI crossed 80 around 10:30 am and the price crossed the outer bollinger band which confirmed the overbought signal. At this point (1990), entry could be made if the risk/reward ratio for the trade is aligned to the strategy framework&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Profit, Stop Loss and Position Sizing&lt;/strong&gt;: After identifying the overbought signal, estimated risk reward ratio of trade was calculated, before committing to the trade, to ensure it falls in the defined criteria:
-    &lt;ul&gt;
-      &lt;li&gt;Profit estimation: The actual profit that the strategy can make is difficult to predict so the indicative profit that the strategy could give was calculated based on the bollinger band width at the time of entry. This would require the price to move from the outer band to lower band with a fixed bandwidth. Bollinger bandwidth at the time of execution was 55 points.&lt;/li&gt;
-      &lt;li&gt;Stop Loss: Since the stock had been quite volatile in the last 3 days, the stop loss was placed 2 times of the ATR above the entry point. ATR at the entry point is 20 and entry point at 1990 so stop loss would be at 2130&lt;/li&gt;
-      &lt;li&gt;Risk-reward ratio is 0.72 (40/55). Since this ratio seems to be in the range of 0.25-1 therefore it satisfied this criteria as well&lt;/li&gt;
-      &lt;li&gt;Position Sizing: To calculate the size for the trade, the following method was used where Position Sizing = 1%xTotal Capital/Risk. Assuming total trading capital is of Rs. 5 lakhs so the position size for the trade would be 125 shares (1%x5 lakhs/40)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+1. **Waiting for the right entry point** - After 13th May, Stochastic RSI crossed 80 four times in the following 4 sessions. The 4 signals were inspected:
+* 14th May - Stoch RSI’s K line crossed 80 but its D line was not able to cross the 80 mark so no action was taken on this
+* 15th May - Stoch RSI crossed 80 after 12:30 pm so not enough time for price to move its course and make sufficient profits
+* 18th May - Stoch RSI crossed 80 after 2 pm so again not enough time for price to move its course and make sufficient profits
+* 19th May - Stoch RSI crossed 80 around 10:30 am and the price crossed the outer bollinger band which confirmed the overbought signal. At this point (1990), entry could be made if the risk/reward ratio for the trade is aligned to the strategy framework
 
-&lt;h1 id=&quot;profit--loss&quot;&gt;Profit &amp;amp; Loss&lt;/h1&gt;
+2. **Profit, Stop Loss and Position Sizing**: After identifying the overbought signal, estimated risk reward ratio of trade was calculated, before committing to the trade, to ensure it falls in the defined criteria:
+* Profit estimation: The actual profit that the strategy can make is difficult to predict so the indicative profit that the strategy could give was calculated based on the bollinger band width at the time of entry. This would require the price to move from the outer band to lower band with a fixed bandwidth. Bollinger bandwidth at the time of execution was 55 points.
+* Stop Loss: Since the stock had been quite volatile in the last 3 days, the stop loss was placed 2 times of the ATR above the entry point. ATR at the entry point is 20 and entry point at 1990 so stop loss would be at 2130
+* Risk-reward ratio is 0.72 (40/55). Since this ratio seems to be in the range of 0.25-1 therefore it satisfied this criteria as well
+*  Position Sizing: To calculate the size for the trade, the following method was used where Position Sizing = 1%xTotal Capital/Risk. Assuming total trading capital is of Rs. 5 lakhs so the position size for the trade would be 125 shares (1%x5 lakhs/40)
 
-&lt;ul&gt;
-  &lt;li&gt;Entry point: 1990 (StochRSI&amp;gt;80, 10:15 am on 19th May)&lt;/li&gt;
-  &lt;li&gt;Exit point: 1955 ( StochRSI&amp;lt;20, 1:45 pm on 19th May)&lt;/li&gt;
-  &lt;li&gt;Profit per share: 35&lt;/li&gt;
-  &lt;li&gt;P&amp;amp;L (assuming 125 shares) = 125*35 = Rs. 4,375&lt;/li&gt;
-&lt;/ul&gt;
+# Profit &amp; Loss
 
-&lt;h1 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h1&gt;
+* Entry point: 1990 (StochRSI&gt;80, 10:15 am on 19th May)
+* Exit point: 1955 ( StochRSI&lt;20, 1:45 pm on 19th May)
+* Profit per share: 35
+* P&amp;L (assuming 125 shares) = 125*35 = Rs. 4,375
 
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The downtrend can be established by connecting the high points on rallies or the low points on reactions on the daily chart. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Overbought refers to a security which has been subject to a persistent upward pressure. This continued buying pressure, happening due to some news or event or market inertia, leads to continued bullishness beyond what many traders consider reasonable. In such a scenario, traders refer to the asset as overbought and many will bet on a reversal in price. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;StochRSI&amp;gt;80 signals overbought and StochRSI&amp;lt;20 signals oversold region &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;When the price touches the outer bollinger band then it signifies overbought regions of the price while when price touches the lower bollinger band then it signifies oversold regions &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">A detailed analysis of an intra-day trade on Bajaj Finance Ltd. using Stochastic RSI, Bollinger Bands and ATR.</summary></entry><entry><title type="html">Things to consider for an investor during a market crash</title><link href="http://localhost:4000/blogs/2020/04/23/things-to-consider-for-an-investor.html" rel="alternate" type="text/html" title="Things to consider for an investor during a market crash" /><published>2020-04-23T16:12:22+05:30</published><updated>2020-04-23T16:12:22+05:30</updated><id>http://localhost:4000/blogs/2020/04/23/things-to-consider-for-an-investor</id><content type="html" xml:base="http://localhost:4000/blogs/2020/04/23/things-to-consider-for-an-investor.html">&lt;h1 id=&quot;things-to-consider-for-an-investor-during-a-market-crash&quot;&gt;Things to consider for an investor during a market crash&lt;/h1&gt;
+# Footnotes
 
-&lt;p&gt;We are currently going through an unprecedented health crisis and this has led to a prolonged stock market crash. While market corrections happen from time-to-time, the impact of the novel coronavirus has been big on the markets.&lt;/p&gt;
+[^1]: The downtrend can be established by connecting the high points on rallies or the low points on reactions on the daily chart.
+[^2]: Overbought refers to a security which has been subject to a persistent upward pressure. This continued buying pressure, happening due to some news or event or market inertia, leads to continued bullishness beyond what many traders consider reasonable. In such a scenario, traders refer to the asset as overbought and many will bet on a reversal in price.
+[^3]: StochRSI&gt;80 signals overbought and StochRSI&lt;20 signals oversold region
+[^4]: When the price touches the outer bollinger band then it signifies overbought regions of the price while when price touches the lower bollinger band then it signifies oversold regions</content><author><name></name></author><summary type="html">A detailed analysis of an intra-day trade on Bajaj Finance Ltd. using Stochastic RSI, Bollinger Bands and ATR.</summary></entry><entry><title type="html">Things to consider for an investor during a market crash</title><link href="https://blog.finhawk.co.in/blogs/2020/04/23/things-to-consider-for-an-investor.html" rel="alternate" type="text/html" title="Things to consider for an investor during a market crash" /><published>2020-04-23T16:12:22+05:30</published><updated>2020-04-23T16:12:22+05:30</updated><id>https://blog.finhawk.co.in/blogs/2020/04/23/things-to-consider-for-an-investor</id><content type="html" xml:base="https://blog.finhawk.co.in/blogs/2020/04/23/things-to-consider-for-an-investor.html"># Things to consider for an investor during a market crash
 
-&lt;p&gt;To get a sense of the impact on the markets, let’s look at movement of the major indices in last 1 month:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;S&amp;amp;P 500&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; has dropped 1000 points&lt;/li&gt;
-  &lt;li&gt;NIFTY&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; has dropped 4900 points&lt;/li&gt;
-  &lt;li&gt;FTSE&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; has dropped 2500 points&lt;/li&gt;
-&lt;/ol&gt;
+We are currently going through an unprecedented health crisis and this has led to a prolonged stock market crash. While market corrections happen from time-to-time, the impact of the novel coronavirus has been big on the markets.
 
-&lt;p&gt;What this means is that there would be an impact on retail investors’ capital. We have looked at the data for all popular products (in India) and their current returns (Shown in table 1). Apart from debt funds and Gold ETFs, all other types of funds have seen a decrease in their value.&lt;/p&gt;
+To get a sense of the impact on the markets, let's look at movement of the major indices in last 1 month:   
+1. S&amp;P 500[^1] has dropped 1000 points
+2. NIFTY[^2] has dropped 4900 points
+3. FTSE[^3] has dropped 2500 points
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Type of instrument&lt;/th&gt;
-      &lt;th&gt;Returns expected&lt;/th&gt;
-      &lt;th&gt;Current 1 year returns&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MFs - All equity funds&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-      &lt;td&gt;10-12%&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-      &lt;td&gt;-17.3% (Average for 5-star and 4-star equity funds)&lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MFs - All debt funds&lt;/td&gt;
-      &lt;td&gt;5-15%&lt;sup id=&quot;fnref:8&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-      &lt;td&gt;7.53% (Average for 5-star and 4-star debt funds)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;MFs - Hybrid funds&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-      &lt;td&gt;-4.22% (Average for 5-star and 4-star hybrid funds)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;ETFs&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-      &lt;td&gt;-23.15% (Average of top 22 ETFs)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Gold ETFs&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-      &lt;td&gt;6.21% (Average of all gold ETFs)*&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+What this means is that there would be an impact on retail investors’ capital. We have looked at the data for all popular products (in India) and their current returns (Shown in table 1). Apart from debt funds and Gold ETFs, all other types of funds have seen a decrease in their value.
 
-&lt;p&gt;It’s important to be cognizant of the fact that during such crises, some businesses can also shut down. These businesses may further impact other businesses which are dependent on them. Such a scenario can have rippling effects of people losing jobs, decrease in global and local consumption, decrease in exports and thereby declined growth.&lt;/p&gt;
+| Type of instrument | Returns expected | Current 1 year returns[^4]
+| ------------------ | ---------------- | ----------------
+| MFs - All equity funds[^5] | 10-12%[^6] | -17.3% (Average for 5-star and 4-star equity funds)[^7]
+| MFs - All debt funds | 5-15%[^8] | 7.53% (Average for 5-star and 4-star debt funds)
+| MFs - Hybrid funds | - | -4.22% (Average for 5-star and 4-star hybrid funds)
+| ETFs | - | -23.15% (Average of top 22 ETFs)
+| Gold ETFs | - | 6.21% (Average of all gold ETFs)*
 
-&lt;p&gt;Since health organizations are still looking for a solution and governments are working to fight against the spread of the virus, the scale of the economic impact can not yet be predicted. So, there will be aftereffects of this health disaster on economic functioning.&lt;/p&gt;
+It's important to be cognizant of the fact that during such crises, some businesses can also shut down. These businesses may further impact other businesses which are dependent on them. Such a scenario can have rippling effects of people losing jobs, decrease in global and local consumption, decrease in exports and thereby declined growth.
 
-&lt;h2 id=&quot;monitor-your-financial-assets-periodically&quot;&gt;Monitor your financial assets periodically&lt;/h2&gt;
+Since health organizations are still looking for a solution and governments are working to fight against the spread of the virus, the scale of the economic impact can not yet be predicted. So, there will be aftereffects of this health disaster on economic functioning.
 
-&lt;p&gt;A few things that a retail investor could do is:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Check the current value of their portfolio/capital.&lt;/li&gt;
-  &lt;li&gt;Understand the composition of MFs, ETFs in which they are invested, in as much detail as possible. There are many online portals&lt;sup id=&quot;fnref:9&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; which provide ratings and composition of financial products.&lt;/li&gt;
-&lt;/ol&gt;
+## Monitor your financial assets periodically
 
-&lt;p&gt;If you don’t understand the product you are invested then, then you can do the following:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Read a book which explains the product in first principles&lt;sup id=&quot;fnref:10&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;Consult a financial advisor on their views on the product&lt;/li&gt;
-  &lt;li&gt;Go through a credible source which releases unbiased information about financial products via blogs&lt;sup id=&quot;fnref:11&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;, podcasts&lt;sup&gt;&lt;sup id=&quot;fnref:12&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:12&quot; class=&quot;footnote&quot;&gt;12&lt;/a&gt;&lt;/sup&gt;,  and social media services.&lt;/sup&gt;&lt;/li&gt;
-&lt;/ol&gt;
+A few things that a retail investor could do is:
+1. Check the current value of their portfolio/capital.
+2. Understand the composition of MFs, ETFs in which they are invested, in as much detail as possible. There are many online portals[^9] which provide ratings and composition of financial products.
 
-&lt;p&gt;A smart investor would understand a product before they buy it and then monitor them periodically.&lt;/p&gt;
+If you don’t understand the product you are invested then, then you can do the following:
+1. Read a book which explains the product in first principles[^10]
+2. Consult a financial advisor on their views on the product
+3. Go through a credible source which releases unbiased information about financial products via blogs[^11], podcasts&lt;sup&gt;[^12],  and social media services.
 
-&lt;h2 id=&quot;does-a-market-crash-imply-an-opportunity-to-buy&quot;&gt;Does a market crash imply an opportunity to buy?&lt;/h2&gt;
+A smart investor would understand a product before they buy it and then monitor them periodically.
 
-&lt;p&gt;One of the most important concepts of trading and investment is to buy a stock or an asset when it is cheap or under-priced and sell it when it is expensive or overvalued. If the stock markets undergo a significant decline, does it imply that it is a good opportunity to buy or invest?&lt;/p&gt;
+## Does a market crash imply an opportunity to buy?
 
-&lt;p&gt;Let’s look at what a smart investor would do before deciding to buy anything:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Set aside enough cash buffer for their monthly expenditures for at least 6 months. Only if they have extra surplus cash, would they decide to buy&lt;/li&gt;
-  &lt;li&gt;Look at sectors that would get least impacted during the time and also flourish in the future. They would understand how the business works:
-    &lt;ul&gt;
-      &lt;li&gt;Identify what line of services or products a company in that sector provides&lt;/li&gt;
-      &lt;li&gt;Understand if the demand for their product and service would continue to grow despite slowdown and changes in the economy.&lt;/li&gt;
-      &lt;li&gt;Understand the business model and margins in the business&lt;/li&gt;
-      &lt;li&gt;Articulate their hypothesis for growth potential and stable returns&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In the sector that would survive and flourish, they would:
-    &lt;ul&gt;
-      &lt;li&gt;Identify companies with healthy cash reserves&lt;sup id=&quot;fnref:13&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:13&quot; class=&quot;footnote&quot;&gt;13&lt;/a&gt;&lt;/sup&gt; and a good profit margin&lt;sup id=&quot;fnref:14&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:14&quot; class=&quot;footnote&quot;&gt;14&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-      &lt;li&gt;Identify and remove those companies which have a high debt to equity ratio &lt;sup id=&quot;fnref:15&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:15&quot; class=&quot;footnote&quot;&gt;15&lt;/a&gt;&lt;/sup&gt; and low cash ratios.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+One of the most important concepts of trading and investment is to buy a stock or an asset when it is cheap or under-priced and sell it when it is expensive or overvalued. If the stock markets undergo a significant decline, does it imply that it is a good opportunity to buy or invest?
 
-&lt;p&gt;So like a smart investor, do full due diligence on the financial product and business that you may want to invest in. Just because the value of a stock or asset has fallen doesn’t necessarily qualify it to be a great deal.&lt;/p&gt;
+Let's look at what a smart investor would do before deciding to buy anything:
+1. Set aside enough cash buffer for their monthly expenditures for at least 6 months. Only if they have extra surplus cash, would they decide to buy
+2. Look at sectors that would get least impacted during the time and also flourish in the future. They would understand how the business works:
+* Identify what line of services or products a company in that sector provides
+* Understand if the demand for their product and service would continue to grow despite slowdown and changes in the economy.
+* Understand the business model and margins in the business
+* Articulate their hypothesis for growth potential and stable returns
+3. In the sector that would survive and flourish, they would:
+* Identify companies with healthy cash reserves[^13] and a good profit margin[^14]
+* Identify and remove those companies which have a high debt to equity ratio [^15] and low cash ratios.
 
-&lt;h2 id=&quot;basics-about-various-financial-instruments&quot;&gt;Basics about various financial instruments&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;MFs - All equity funds. Equity mutual funds try generating high returns by investing in the stocks of companies. Equity mutual funds are the riskiest class of mutual funds, and hence, they have the potential to provide higher returns than debt and hybrid funds.&lt;/li&gt;
-  &lt;li&gt;MFs - All debt funds. A debt fund invests in fixed-interest generating securities such as corporate bonds, government securities, treasury bills, commercial paper and other money market instruments. The fundamental reason for investing in debt funds is to earn interest income and capital appreciation.&lt;/li&gt;
-  &lt;li&gt;Hybrid Funds. Hybrid funds invest in both debt and equity instruments to achieve diversification and avoid the concentration risk. A perfect blend of the two offers higher returns than a regular debt fund while not being as risky as equity funds.
-    &lt;ul&gt;
-      &lt;li&gt;A hybrid mutual fund scheme that invests over 65% of its corpus in equities and the remaining in debt is called an Equity-Oriented Hybrid Mutual Fund.&lt;/li&gt;
-      &lt;li&gt;Conversely, a hybrid mutual fund scheme that invests over 65% of its corpus in debt instruments and the remaining into equity is called a Debt-Oriented Hybrid Mutual Fund.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Nifty ETFs (Exchange traded funds) - Various mutual funds provide ETF products that attempt to replicate the indices on NSE, so as to provide returns that closely correspond to the total returns of the securities represented in the index&lt;/li&gt;
-  &lt;li&gt;Gold ETFs - A gold ETF, or exchange-traded fund, is a commodity ETF that consists of only one principal asset: gold. Investors use gold ETFs to track and reflect the price of gold. A gold ETF gives an investor an opportunity to gain exposure to the performance, or price movements, of gold.&lt;/li&gt;
-&lt;/ol&gt;
+So like a smart investor, do full due diligence on the financial product and business that you may want to invest in. Just because the value of a stock or asset has fallen doesn’t necessarily qualify it to be a great deal.
 
-&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The S&amp;amp;P 500 is an index that measures the stock performance of 500 large companies listed on stock exchanges in the United States. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The flagship index on the National Stock Exchange of India Ltd. It includes 50 of the approximately 1600 companies listed on the NSE and captures approximately 65% of its float-adjusted market capitalization. It is a true reflection of the Indian stock market &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The most important index in the UK and the leading index of the London Stock Exchange. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Calculated as on 20th March, 2020 &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Basics about the product covered at the end of the blog &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://cleartax.in/s/equity-funds?ref=lp_mutual-funds&quot;&gt;https://cleartax.in/s/equity-funds?ref=lp_mutual-funds&lt;/a&gt; &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Ratings as per value research online - &lt;a href=&quot;https://www.valueresearchonline.com/funds/selector/primary-category/3/hybrid/?star-rating=5%2C4&amp;amp;exclude=suspended-plans&amp;amp;tab=snapshot&quot;&gt;https://www.valueresearchonline.com/funds/selector/primary-category/3/hybrid/?star-rating=5%2C4&amp;amp;exclude=suspended-plans&amp;amp;tab=snapshot&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://m.economictimes.com/mf/analysis/be-prepared-for-lower-returns-from-your-debt-mutual-funds/articleshow/72017405.cms&quot;&gt;https://m.economictimes.com/mf/analysis/be-prepared-for-lower-returns-from-your-debt-mutual-funds/articleshow/72017405.cms&lt;/a&gt; &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Popular research websites are as follows: &lt;a href=&quot;https://www.valueresearchonline.com/&quot;&gt;https://www.valueresearchonline.com/&lt;/a&gt;, &lt;a href=&quot;https://www.morningstar.com/etfs&quot;&gt;https://www.morningstar.com/etfs&lt;/a&gt;, &lt;a href=&quot;https://www.amfiindia.com/&quot;&gt;https://www.amfiindia.com/&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;For example, John Bogle, the founder of the Vanguard Group, is the pioneer of index fund investments. He has written several books on index funds, MFs to enable masses to understand them better &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:11&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Some popular blogs on investment in India - &lt;a href=&quot;https://tradebrains.in/guide-select-right-mutual-funds/&quot;&gt;https://tradebrains.in/guide-select-right-mutual-funds/&lt;/a&gt;, &lt;a href=&quot;https://www.safalniveshak.com/articles/&quot;&gt;https://www.safalniveshak.com/articles/&lt;/a&gt;; there maybe more blogs from which you can learn &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:12&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Some popular investment podcasts in India - &lt;a href=&quot;https://ivmpodcasts.com/paisavaisa/&quot;&gt;https://ivmpodcasts.com/paisavaisa/&lt;/a&gt;, &lt;a href=&quot;https://www.capitalmind.in/tag/podcast/&quot;&gt;https://www.capitalmind.in/tag/podcast/&lt;/a&gt;  . There maybe more podcasters that you may find &lt;a href=&quot;#fnref:12&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:13&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The cash ratio is a measurement of a company’s liquidity, specifically the ratio of a company’s total cash and cash equivalents to its current liabilities. &lt;a href=&quot;#fnref:13&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:14&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The net profit margin is equal to how much net income or profit is generated as a percentage of revenue. &lt;a href=&quot;#fnref:14&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:15&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The debt-to-equity (D/E) ratio is calculated by dividing a company’s total liabilities by its shareholder equity. It reflects the ability of shareholder equity to cover all outstanding debts in the event of a business downturn. Higher leverage ratios tend to indicate a company or stock with higher risk to shareholders &lt;a href=&quot;#fnref:15&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">We are currently going through an unprecedented health crisis and this has led to a prolonged stock market crash. While market corrections happen from time-to-time, the impact of the novel coronavirus has been big on the markets.</summary></entry></feed>
+[^1]: The S&amp;P 500 is an index that measures the stock performance of 500 large companies listed on stock exchanges in the United States.
+[^2]: The flagship index on the National Stock Exchange of India Ltd. It includes 50 of the approximately 1600 companies listed on the NSE and captures approximately 65% of its float-adjusted market capitalization. It is a true reflection of the Indian stock market
+[^3]: The most important index in the UK and the leading index of the London Stock Exchange.
+[^4]: Calculated as on 20th March, 2020
+[^5]: Basics about the product covered at the end of the blog
+[^6]: &lt;https://cleartax.in/s/equity-funds?ref=lp_mutual-funds&gt;
+[^7]: Ratings as per value research online - &lt;https://www.valueresearchonline.com/funds/selector/primary-category/3/hybrid/?star-rating=5%2C4&amp;exclude=suspended-plans&amp;tab=snapshot&gt;
+[^8]: &lt;https://m.economictimes.com/mf/analysis/be-prepared-for-lower-returns-from-your-debt-mutual-funds/articleshow/72017405.cms&gt;
+[^9]: Popular research websites are as follows: &lt;https://www.valueresearchonline.com/&gt;, &lt;https://www.morningstar.com/etfs&gt;, &lt;https://www.amfiindia.com/&gt;
+[^10]:For example, John Bogle, the founder of the Vanguard Group, is the pioneer of index fund investments. He has written several books on index funds, MFs to enable masses to understand them better
+[^11]:Some popular blogs on investment in India - &lt;https://tradebrains.in/guide-select-right-mutual-funds/&gt;, &lt;https://www.safalniveshak.com/articles/&gt;; there maybe more blogs from which you can learn
+[^12]:Some popular investment podcasts in India - &lt;https://ivmpodcasts.com/paisavaisa/&gt;, &lt;https://www.capitalmind.in/tag/podcast/&gt;  . There maybe more podcasters that you may find
+[^13]:The cash ratio is a measurement of a company's liquidity, specifically the ratio of a company's total cash and cash equivalents to its current liabilities.
+[^14]:The net profit margin is equal to how much net income or profit is generated as a percentage of revenue.
+[^15]: The debt-to-equity (D/E) ratio is calculated by dividing a company’s total liabilities by its shareholder equity. It reflects the ability of shareholder equity to cover all outstanding debts in the event of a business downturn. Higher leverage ratios tend to indicate a company or stock with higher risk to shareholders
+
+## Basics about various financial instruments
+1. MFs - All equity funds. Equity mutual funds try generating high returns by investing in the stocks of companies. Equity mutual funds are the riskiest class of mutual funds, and hence, they have the potential to provide higher returns than debt and hybrid funds.
+2. MFs - All debt funds. A debt fund invests in fixed-interest generating securities such as corporate bonds, government securities, treasury bills, commercial paper and other money market instruments. The fundamental reason for investing in debt funds is to earn interest income and capital appreciation.
+3. Hybrid Funds. Hybrid funds invest in both debt and equity instruments to achieve diversification and avoid the concentration risk. A perfect blend of the two offers higher returns than a regular debt fund while not being as risky as equity funds.
+* A hybrid mutual fund scheme that invests over 65% of its corpus in equities and the remaining in debt is called an Equity-Oriented Hybrid Mutual Fund.
+* Conversely, a hybrid mutual fund scheme that invests over 65% of its corpus in debt instruments and the remaining into equity is called a Debt-Oriented Hybrid Mutual Fund.
+4. Nifty ETFs (Exchange traded funds) - Various mutual funds provide ETF products that attempt to replicate the indices on NSE, so as to provide returns that closely correspond to the total returns of the securities represented in the index
+5. Gold ETFs - A gold ETF, or exchange-traded fund, is a commodity ETF that consists of only one principal asset: gold. Investors use gold ETFs to track and reflect the price of gold. A gold ETF gives an investor an opportunity to gain exposure to the performance, or price movements, of gold.
+
+## Footnotes</content><author><name></name></author><summary type="html">We are currently going through an unprecedented health crisis and this has led to a prolonged stock market crash. While market corrections happen from time-to-time, the impact of the novel coronavirus has been big on the markets.</summary></entry></feed>
